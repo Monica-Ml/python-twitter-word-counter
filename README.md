@@ -1,7 +1,7 @@
 # Twitter bot
 It reads the tweets of the target account and finds the most used words that the target has used along with the number of repetitions of the words.
 
-## How to making Bot:
+## How to get 'Bearer Token':
 - 1-Open [Developer Portal](https://developer.twitter.com/en/portal/dashboard) on Twitter website
 - 2-Create new project 
 - 3-Select your project
@@ -14,8 +14,6 @@ It reads the tweets of the target account and finds the most used words that the
 
 - Microsoft Windows
 - Linux
-- macOS
-- iOS
 - Android
 
 
